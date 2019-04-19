@@ -1,0 +1,13 @@
+c:\users\serhan\documents\visual studio 2015\Projects\klogger\klogger\bin\Debug\klogger.exe.config
+c:\users\serhan\documents\visual studio 2015\Projects\klogger\klogger\bin\Debug\klogger.exe
+c:\users\serhan\documents\visual studio 2015\Projects\klogger\klogger\bin\Debug\klogger.pdb
+c:\users\serhan\documents\visual studio 2015\Projects\klogger\klogger\obj\Debug\klogger.csprojResolveAssemblyReference.cache
+c:\users\serhan\documents\visual studio 2015\Projects\klogger\klogger\obj\Debug\klogger.exe
+c:\users\serhan\documents\visual studio 2015\Projects\klogger\klogger\obj\Debug\klogger.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\bin\Debug\klogger.exe.config
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\bin\Debug\klogger.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\bin\Debug\klogger.pdb
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\obj\Debug\klogger.csprojAssemblyReference.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\obj\Debug\klogger.csproj.CoreCompileInputs.cache
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\obj\Debug\klogger.exe
+C:\Users\Serhan\Desktop\Eski Projeler\Projects\klogger\klogger\obj\Debug\klogger.pdb
